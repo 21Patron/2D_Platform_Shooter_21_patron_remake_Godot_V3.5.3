@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/serious-bg-music-167311.mp3-96dcb38c17322697c5d08047acfe26da.mp3str"
+
+[deps]
+
+source_file="res://assets/AUDIO/MUSIC/Level audio/L4/serious-bg-music-167311.mp3"
+dest_files=[ "res://.import/serious-bg-music-167311.mp3-96dcb38c17322697c5d08047acfe26da.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

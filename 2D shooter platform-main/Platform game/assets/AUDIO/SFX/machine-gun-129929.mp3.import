@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/machine-gun-129929.mp3-c40ee7f27b429dbf0b40b4561702f082.mp3str"
+
+[deps]
+
+source_file="res://assets/AUDIO/SFX/machine-gun-129929.mp3"
+dest_files=[ "res://.import/machine-gun-129929.mp3-c40ee7f27b429dbf0b40b4561702f082.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

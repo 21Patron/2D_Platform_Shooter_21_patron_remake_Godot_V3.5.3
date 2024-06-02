@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rome-legion-62972.mp3-efcbef2f16fc4af45754ec3f3d22355f.mp3str"
+
+[deps]
+
+source_file="res://assets/AUDIO/MUSIC/Level audio/L5/rome-legion-62972.mp3"
+dest_files=[ "res://.import/rome-legion-62972.mp3-efcbef2f16fc4af45754ec3f3d22355f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

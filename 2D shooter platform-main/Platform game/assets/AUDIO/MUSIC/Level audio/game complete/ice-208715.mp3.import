@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ice-208715.mp3-21452fcbb9e37021ab0d8d8aa56d679e.mp3str"
+
+[deps]
+
+source_file="res://assets/AUDIO/MUSIC/Level audio/game complete/ice-208715.mp3"
+dest_files=[ "res://.import/ice-208715.mp3-21452fcbb9e37021ab0d8d8aa56d679e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

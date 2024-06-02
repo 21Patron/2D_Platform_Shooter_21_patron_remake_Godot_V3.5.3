@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/slow-time-noir-film-62914.mp3-26c4ac66919f17bbc5f4cb10ea9b6697.mp3str"
+
+[deps]
+
+source_file="res://assets/AUDIO/MUSIC/Level audio/failed/slow-time-noir-film-62914.mp3"
+dest_files=[ "res://.import/slow-time-noir-film-62914.mp3-26c4ac66919f17bbc5f4cb10ea9b6697.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

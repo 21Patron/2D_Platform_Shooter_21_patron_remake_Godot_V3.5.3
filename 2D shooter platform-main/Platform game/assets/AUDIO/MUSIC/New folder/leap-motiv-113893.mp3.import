@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/leap-motiv-113893.mp3-606f362cd4b01ebba67fff212e4b966f.mp3str"
+
+[deps]
+
+source_file="res://assets/AUDIO/MUSIC/New folder/leap-motiv-113893.mp3"
+dest_files=[ "res://.import/leap-motiv-113893.mp3-606f362cd4b01ebba67fff212e4b966f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

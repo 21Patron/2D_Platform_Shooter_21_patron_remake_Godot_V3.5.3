@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/street-action-14637.mp3-f6f55f5575cf21750800929a02db7f77.mp3str"
+
+[deps]
+
+source_file="res://assets/AUDIO/MUSIC/street-action-14637.mp3"
+dest_files=[ "res://.import/street-action-14637.mp3-f6f55f5575cf21750800929a02db7f77.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
